@@ -123,12 +123,12 @@ Strategic Recommendations
 
 The raw customer dataset was prepared for analysis through:
 
-• Duplicate identification and removal
-• Data standardization
-• Categorical value normalization
-• Marital status standardization
-• Gender standardization
-• Data structuring for PivotTable analysis
+* Duplicate identification and removal
+* Data standardization
+* Categorical value normalization
+* Marital status standardization
+* Gender standardization
+* Data structuring for PivotTable analysis
 
 Examples of standardized categorical values included:
 
@@ -154,24 +154,24 @@ These categories were then used throughout the analysis to compare purchasing be
 
 The analysis used PivotTables and Slicers to create dynamic cross-tabulations for:
 
-• Purchase conversion rates
-• Income levels
-• Age groups
-• Commute distances
-• Education
-• Occupation
-• Gender
-• Marital status
-• Geographic regions
+* Purchase conversion rates
+* Income levels
+* Age groups
+* Commute distances
+* Education
+* Occupation
+* Gender
+* Marital status
+* Geographic regions
 
 # 📈 Key Findings
 ## 🚲 1. Overall Purchase Behavior
 
 Out of the 1,000 customers analyzed:
 
-• 481 customers purchased a bike
-• 519 customers did not purchase a bike
-• Overall purchase rate: 48.1%
+* 481 customers purchased a bike
+* 519 customers did not purchase a bike
+* Overall purchase rate: 48.1%
 
 This provides a relatively balanced dataset for comparing purchaser and non-purchaser characteristics.
 
@@ -319,11 +319,11 @@ Purchase Behavior
 
 The strongest observed patterns suggest that a potentially attractive customer segment may include customers who are:
 
-• Middle-Age
-• Higher income
-• Professional
-• Living or working within a short-to-moderate commuting distance
-• Located in stronger-performing geographic markets
+* Middle-Age
+* Higher income
+* Professional
+* Living or working within a short-to-moderate commuting distance
+* Located in stronger-performing geographic markets
 
 These characteristics should be treated as targeting hypotheses, not guaranteed predictors of purchase behavior.
 
@@ -369,26 +369,26 @@ However, the difference should be interpreted as an observed association rather 
 The final Microsoft Excel dashboard presents the analysis in a visual and interactive format designed to make customer purchasing patterns easier to understand.
 
 Dashboard Components
-• 🚲 Bike Purchase KPIs
-• 💰 Income Analysis
-• 🎂 Age Analysis
-• 👥 Gender Comparison
-• 💍 Marital Status Analysis
-• 🛣️ Commute Distance Analysis
-• 🌎 Regional Comparison
-• 💼 Occupation Analysis
-• 📊 Purchase Rate Comparisons
-• 🎛️ Interactive Filters / Slicers
+* 🚲 Bike Purchase KPIs
+* 💰 Income Analysis
+* 🎂 Age Analysis
+* 👥 Gender Comparison
+* 💍 Marital Status Analysis
+* 🛣️ Commute Distance Analysis
+* 🌎 Regional Comparison
+* 💼 Occupation Analysis
+* 📊 Purchase Rate Comparisons
+* 🎛️ Interactive Filters / Slicers
 
 The dashboard is supported by analytical worksheets containing:
 
-• Cleaned customer data
-• Calculated age brackets
-• PivotTable analysis
-• Purchase segmentation
-• Demographic comparisons
-• Commute-distance analysis
-• Regional analysis
+* Cleaned customer data
+* Calculated age brackets
+* PivotTable analysis
+* Purchase segmentation
+* Demographic comparisons
+* Commute-distance analysis
+* Regional analysis
 
 ## 💼 Strategic Business Recommendations
 ### 1. 🎯 Target Short-Commute Customers
@@ -487,13 +487,13 @@ Explore the cleaned and structured customer dataset.
 
 Navigate through the PivotTables and supporting calculations used to analyze:
 
-• Demographics
-• Income
-• Age
-• Occupation
-• Commute distance
-• Region
-• Purchase behavior
+* Demographics
+* Income
+* Age
+* Occupation
+* Commute distance
+* Region
+* Purchase behavior
 
 4. Explore the Dashboard
 
@@ -503,14 +503,14 @@ Use the interactive dashboard and available slicers to filter customer segments 
 
 The analysis could support decisions related to:
 
-• 🎯 Customer segmentation
-• 📢 Targeted marketing
-• 🌎 Regional campaign planning
-• 🚴 Commuter-focused product positioning
-• 👤 Customer profiling
-• 📍 Market prioritization
-• 💰 Promotional strategy
-• 🏢 Corporate wellness partnerships
+* 🎯 Customer segmentation
+* 📢 Targeted marketing
+* 🌎 Regional campaign planning
+* 🚴 Commuter-focused product positioning
+* 👤 Customer profiling
+* 📍 Market prioritization
+* 💰 Promotional strategy
+* 🏢 Corporate wellness partnerships
 
 For example, businesses could investigate whether customers with short-to-moderate commutes and professional occupations represent an attractive segment for bicycle-focused campaigns.
 
@@ -519,14 +519,14 @@ For example, businesses could investigate whether customers with short-to-modera
 The Excel analysis can be extended into a more advanced Business Intelligence solution using Power BI.
 
 ### Potential Enhancements
-• Interactive Power BI dashboard
-• Dynamic customer segmentation
-• Geographic visualizations
-• Advanced KPI tracking
-• Drill-down analysis
-• Automated data refresh
-• Cross-filtering across demographic segments
-• Purchase-propensity analysis
+* Interactive Power BI dashboard
+* Dynamic customer segmentation
+* Geographic visualizations
+* Advanced KPI tracking
+* Drill-down analysis
+* Automated data refresh
+* Cross-filtering across demographic segments
+* Purchase-propensity analysis
 ### 🔄 Future Analytics Pipeline
 Raw Customer Data
         ↓
