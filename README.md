@@ -454,6 +454,8 @@ Slicers	Interactive filtering
 Excel Formulas	Feature engineering and categorization
 Charts & Visualizations	Communicating analytical findings
 ## 📁 Workbook Structure
+
+```text
 bike-sales-analysis-excel/
 │
 ├── data/
@@ -473,19 +475,26 @@ bike-sales-analysis-excel/
 │
 ├── README.md
 └── .gitignore
+```
+
 
 ## ▶️ How to Run
-1. Open the Workbook
+### 1. Open the Workbook
 
+```bash
 Open the Excel workbook in Microsoft Excel.
+```
 
-2. Review the Working Sheet
+### 2. Review the Working Sheet
 
+```bash
 Explore the cleaned and structured customer dataset.
+```
 
-3. Review the Analytical Worksheets
-
+### 3. Review the Analytical Worksheets
+```text
 Navigate through the PivotTables and supporting calculations used to analyze:
+```
 
 * Demographics
 * Income
@@ -495,7 +504,7 @@ Navigate through the PivotTables and supporting calculations used to analyze:
 * Region
 * Purchase behavior
 
-4. Explore the Dashboard
+### 4. Explore the Dashboard
 
 Use the interactive dashboard and available slicers to filter customer segments and observe how purchase rates change.
 
@@ -528,6 +537,8 @@ The Excel analysis can be extended into a more advanced Business Intelligence so
 * Cross-filtering across demographic segments
 * Purchase-propensity analysis
 ### 🔄 Future Analytics Pipeline
+
+```text
 Raw Customer Data
         ↓
 Excel Data Preparation
@@ -541,6 +552,8 @@ Power BI Dashboard
 Advanced Customer Segmentation
         ↓
 Decision Support
+```
+
 ## 📌 Project Outcome
 
 This project demonstrates how Microsoft Excel can be used as a complete business analytics tool, from raw customer data preparation to interactive visualization and strategic recommendations.
