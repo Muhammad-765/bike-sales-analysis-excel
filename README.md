@@ -474,7 +474,6 @@ bike-sales-analysis-excel/
 │   └── age_analysis.png
 │
 ├── README.md
-└── .gitignore
 ```
 
 
